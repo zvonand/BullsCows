@@ -1,0 +1,24 @@
+Minimal privacy policy (no data collected) — EN
+
+Privacy Policy for BullsCows
+Last updated: 04.09.2025
+
+Data collection
+
+We do not collect, store, or share any personal data from users.
+The app runs entirely on your device and does not use analytics, advertising, login, or third-party SDKs.
+
+Permissions
+
+The app does not request access to sensitive device permissions.
+If any permission is requested in the future, it will only be used for the stated purpose and will be optional.
+
+Children’s privacy
+
+This app is not directed to children under 13 and is intended for general audiences. If you are a parent or guardian and believe your child has provided us with personal information, contact us at [contact email] and we will delete such information.
+
+Changes
+
+We may update this policy from time to time. Changes will be posted on this page with an updated “Last updated” date.
+
+That’s it.

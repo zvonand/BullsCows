@@ -8,6 +8,8 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
 
+import com.bullscows.bullscows_app.R;
+
 import java.util.ArrayList;
 
 public class ItemAdapter extends ArrayAdapter {

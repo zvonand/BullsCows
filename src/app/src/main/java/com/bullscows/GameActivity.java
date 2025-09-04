@@ -13,6 +13,8 @@ import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.Toast;
 
+import com.bullscows.bullscows_app.R;
+
 import java.util.ArrayList;
 import java.util.Random;
 
